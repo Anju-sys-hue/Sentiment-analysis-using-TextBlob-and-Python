@@ -23,3 +23,11 @@ This project analyzes text data to determine sentiment trends by classifying ent
 -Majoity sentiment observed: Positive
 
 ## Output visualization
+
+### Bar Chart
+![Bar Chart](bar.png.png)
+### Pie Chart
+![Pie Chart](pie.png.png)
+### Custom Chart
+![Custom Chart](custom.png.png)
+
